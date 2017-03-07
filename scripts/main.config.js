@@ -1,6 +1,6 @@
 app.config(function($routeProvider){
 
-    let isAuth =
+    let isAuth = 0
 
     $routeProvider
 
